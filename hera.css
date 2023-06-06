@@ -1,0 +1,62 @@
+body {
+  background-color: black;
+  color: white;
+}
+h1{
+  text-align: center;
+}
+
+h2 {
+  color: rgb(141, 1, 255);
+  text-align: center;
+}
+
+.cent {
+  text-align: center;
+  color: rebeccapurple;
+}
+
+h3 {
+  color: red;
+  text-align: center;
+}
+
+.cent1 
+{
+  text-align: center;
+  color: rgb(255, 38, 0);
+}
+
+.button {
+  color: blueviolet;
+}
+
+h4 {
+  color: rgb(175, 8, 241);
+  text-align: center;
+}
+
+.cent2 {
+  color: darkviolet;
+  text-align: center;
+}
+
+h5 {
+  color: rgb(255, 38, 0);
+  text-align: center;
+}
+
+.cent3 {
+  color: rgb(255, 38, 0);
+  text-align: center;
+}
+
+h6 {
+  color: rgb(255, 0, 140);
+  text-align: center;
+}
+
+.cent4 {
+  color: rgb(255, 0, 140);
+  text-align: center;
+}
